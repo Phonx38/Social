@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "451015449160",
+    "firebase_url": "https://memester-f6e81.firebaseio.com",
+    "project_id": "memester-f6e81",
+    "storage_bucket": "memester-f6e81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451015449160:android:2c529126246cb0b647967d",
+        "android_client_info": {
+          "package_name": "com.example.memester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451015449160-cgj4l5ff5is0ks80tignjjj7ej9jtee6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.memester",
+            "certificate_hash": "c7ef85b816185af35ab3dd2f8b6cd48478d4bf38"
+          }
+        },
+        {
+          "client_id": "451015449160-5lp47g9kk8ad9q81533f5r1cd7e2hmq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ucz2LhGngOnkF1ZbeQmlbRo8aRTe6qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451015449160-5lp47g9kk8ad9q81533f5r1cd7e2hmq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
